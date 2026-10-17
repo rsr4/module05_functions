@@ -1,8 +1,8 @@
 from busines_rules import (
-    requires_review,
+    apply_discount,
     calculate_total,
     get_approval_tier,
-    apply_discount,
+    requires_review,
 )
 
 
